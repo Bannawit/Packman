@@ -17,7 +17,7 @@ More advance of this version could be the game when Google doesn't connect to th
 This is the beginning of learning, in the future, I will learn more about interaction of users and more complex code 
 that can generate a more complex function.
 # License 
-This project is built by MITxPRO. 
+This project is built by MITxPRO. Under MIT license
 # Roadmap 
 1.develop more interaction for each opject, packman got eaten by the ghost for instance. 
 2.develop a more complex, learn how to cooperate CSS and HTML to create a game. 
