@@ -18,3 +18,6 @@ This is the beginning of learning, in the future, I will learn more about intera
 that can generate a more complex function.
 # License 
 This project is built by MITxPRO. 
+# Roadmap 
+1.develop more interaction for each opject, packman got eaten by the ghost for instance. 
+2.develop a more complex, learn how to cooperate CSS and HTML to create a game. 
