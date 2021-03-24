@@ -19,5 +19,5 @@ that can generate a more complex function.
 # License 
 This project is built by MITxPRO. Under MIT license
 # Roadmap 
-1.develop more interaction for each opject, packman got eaten by the ghost for instance. 
-2.develop a more complex, learn how to cooperate CSS and HTML to create a game. 
+1.Develop more interaction for each opject, packman got eaten by the ghost for instance. 
+2.Develop a more complex, learn how to cooperate CSS and HTML to create a game. 
